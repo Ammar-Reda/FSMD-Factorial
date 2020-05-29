@@ -1,4 +1,4 @@
-##FSMD-Fibonacci VHDL
+## FSMD-Fibonacci VHDL
 A single-purpose processor (Finite State Machine with Datapath-FSMD) that calculates the factorial of a number as stated in the following algorithm:
 
 ```
