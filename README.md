@@ -1,5 +1,7 @@
-#FSMD-Fibonacci VHDL
+##FSMD-Fibonacci VHDL
 A single-purpose processor (Finite State Machine with Datapath-FSMD) that calculates the factorial of a number as stated in the following algorithm:
+
+```
   0: int x, t, f
   1: while (1) {
   2: while (!go_i);
@@ -11,7 +13,7 @@ A single-purpose processor (Finite State Machine with Datapath-FSMD) that calcul
   }
   8: f = t;
   }
-
+```
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
